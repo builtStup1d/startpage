@@ -21,7 +21,7 @@ html, body {
   grid-template-columns: 1fr 360px 650px 1fr;
   grid-template-areas:
     ". left right .";
-  column-gap: 150px;
+  column-gap: 100px;
   justify-items: center;
   align-items: center;
   min-height: 100%;
@@ -34,7 +34,7 @@ html, body {
 
 .right-container {
   grid-area: right;
-  height: 86%;
+  height: 80%;
   width: 100%;
 }
 
@@ -108,7 +108,7 @@ input {
   color: #B7B8B8;
   text-align: center;
   width: 100%;
-  padding-top: 30px;
+  padding-top: 10%;
   padding-left:10px;
 }
 
