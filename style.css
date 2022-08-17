@@ -1,5 +1,5 @@
 :root {
-    --color-bg: #0B0F10;
+    --color-bg: #131519;
     --color-fg: #E6E6E6;
     --color-link: #B7B8B8;
     --color-link-visited: #B7B8B8;
@@ -9,7 +9,7 @@
 html, body {
   background: var(--color-bg);
   color: var(--color-fg);
-  font-family: "Fira Code";
+  font-family: "Roboto";
   height: 100%;
   width: 100%;
   margin: 0;
