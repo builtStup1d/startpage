@@ -1,9 +1,9 @@
 :root {
-    --color-bg: #1F2629;
+    --color-bg: #1a1825;
     --color-fg: #E6E6E6;
     --color-link: #B7B8B8;
     --color-link-visited: #B7B8B8;
-    --color-link-hover: #B7B8B8 ;
+    --color-link-hover: #c4a7e7 ;
 }
 
 html, body {
@@ -41,6 +41,8 @@ html, body {
 .gif img {
   max-width: 100%;
   max-height: 100%;
+  border-radius: 4px;
+  box-shadow: rgb(0, 0, 0) 0px 20px 30px -10px;
 }
 
 .category {
