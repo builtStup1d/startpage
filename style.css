@@ -49,19 +49,25 @@ html, body {
   display: flex;
   flex-direction: column;
   width: 100%;
-  padding-left: 10px
+  padding-left: 3px;
+  background: #26233a;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  border-radius: 4px;
+  margin: 5px;
 }
 
 .bookmarks {
   display: flex;
   justify-content: center;
+  padding-top:50px;
 }
 
 .links {
   display: flex;
   flex-direction: column;
-  align-items: center;
-  padding-top: 20px;
+  align-items: left;
+  padding-top: 5px;
+  padding-right:5px;
   padding-bottom: 20px;
 }
 
