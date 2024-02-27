@@ -14,6 +14,8 @@ html, body {
   width: 100%;
   margin: 0;
   padding: 0;
+  zoom: 120%;
+  -moz-transform: scale(1.2);
 }
 
 .container {
@@ -116,7 +118,7 @@ input {
   color: #B7B8B8;
   text-align: center;
   width: 100%;
-  padding-top: 10%;
+  padding-top: 200px;
   padding-left:10px;
 }
 
